@@ -1,0 +1,9 @@
+{
+    "name": "is-obj",
+    "description": "Check if a value is an object",
+    "repos": "https://github.com/sindresorhus/is-obj.git",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.0.0"
+}
